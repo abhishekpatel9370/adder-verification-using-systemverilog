@@ -1,0 +1,81 @@
+Loading snapshot worklib.tb:sv .................... Done
+SVSEED default: 1
+xcelium> source /xcelium23.09/tools/xcelium/files/xmsimrc
+xcelium> run
+-------------------------
+[MON] SENT TO SCOREBOARD
+a=0 , b=0 sum=0
+[SOC] : DATA RCVD FROM MONITOR
+a=0 , b=0 sum=0
+[SOC] : Sum Result Matched
+------------------
+-------------------------
+[MON] SENT TO SCOREBOARD
+a=11 , b=12 sum=23
+[SOC] : DATA RCVD FROM MONITOR
+a=11 , b=12 sum=23
+[SOC] : Sum Result Matched
+------------------
+-------------------------
+[MON] SENT TO SCOREBOARD
+a=13 , b=3 sum=16
+[SOC] : DATA RCVD FROM MONITOR
+a=13 , b=3 sum=16
+[SOC] : Sum Result Matched
+------------------
+-------------------------
+[MON] SENT TO SCOREBOARD
+a=10 , b=9 sum=19
+[SOC] : DATA RCVD FROM MONITOR
+a=10 , b=9 sum=19
+[SOC] : Sum Result Matched
+------------------
+-------------------------
+[MON] SENT TO SCOREBOARD
+a=3 , b=4 sum=7
+[SOC] : DATA RCVD FROM MONITOR
+a=3 , b=4 sum=7
+[SOC] : Sum Result Matched
+------------------
+-------------------------
+[MON] SENT TO SCOREBOARD
+a=0 , b=12 sum=12
+[SOC] : DATA RCVD FROM MONITOR
+a=0 , b=12 sum=12
+[SOC] : Sum Result Matched
+------------------
+-------------------------
+[MON] SENT TO SCOREBOARD
+a=13 , b=5 sum=18
+[SOC] : DATA RCVD FROM MONITOR
+a=13 , b=5 sum=18
+[SOC] : Sum Result Matched
+------------------
+-------------------------
+[MON] SENT TO SCOREBOARD
+a=6 , b=8 sum=14
+[SOC] : DATA RCVD FROM MONITOR
+a=6 , b=8 sum=14
+[SOC] : Sum Result Matched
+------------------
+-------------------------
+[MON] SENT TO SCOREBOARD
+a=1 , b=6 sum=7
+[SOC] : DATA RCVD FROM MONITOR
+a=1 , b=6 sum=7
+[SOC] : Sum Result Matched
+------------------
+-------------------------
+[MON] SENT TO SCOREBOARD
+a=4 , b=5 sum=9
+[SOC] : DATA RCVD FROM MONITOR
+a=4 , b=5 sum=9
+[SOC] : Sum Result Matched
+------------------
+-------------------------
+[MON] SENT TO SCOREBOARD
+a=14 , b=14 sum=28
+[SOC] : DATA RCVD FROM MONITOR
+a=14 , b=14 sum=28
+[SOC] : Sum Result Matched
+------------------
